@@ -6,6 +6,7 @@
   </head>
   <body>
     <%= render 'layouts/header' %>
+    <p>mac買ったよ〜</p>
     <div class="container">
       <% flash.each do |message_type, message| %>
         <%= content_tag(:div, message, class: "alert alert-#{message_type}") %>
