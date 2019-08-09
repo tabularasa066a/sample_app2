@@ -1,5 +1,5 @@
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
-/Users/miuratomohiko/.rbenv/versions/2.6.3/bin/ruby -I /Users/miuratomohiko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190810-587-unlh0o.rb extconf.rb
+/Users/miuratomohiko/.rbenv/versions/2.6.3/bin/ruby -I /Users/miuratomohiko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190810-5600-1xqe7at.rb extconf.rb
 creating Makefile
 
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
@@ -16,4 +16,4 @@ linking shared-object byebug/byebug.bundle
 
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/byebug-9.0.6/ext/byebug
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190810-587-1wnqqoe/byebug
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190810-5600-70momt/byebug

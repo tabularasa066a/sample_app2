@@ -1,5 +1,5 @@
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.12/ext/mri
-/Users/miuratomohiko/.rbenv/versions/2.6.3/bin/ruby -I /Users/miuratomohiko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190810-67481-7x7g59.rb extconf.rb
+/Users/miuratomohiko/.rbenv/versions/2.6.3/bin/ruby -I /Users/miuratomohiko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190810-5600-k1ax5e.rb extconf.rb
 creating Makefile
 
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.12/ext/mri
@@ -16,4 +16,4 @@ linking shared-object bcrypt_ext.bundle
 
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/bcrypt-3.1.12/ext/mri
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20190810-67481-g9dotw
+/usr/bin/install -c -m 0755 bcrypt_ext.bundle ./.gem.20190810-5600-1v6gq6j

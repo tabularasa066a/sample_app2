@@ -1,5 +1,5 @@
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.3/ext/nokogiri
-/Users/miuratomohiko/.rbenv/versions/2.6.3/bin/ruby -I /Users/miuratomohiko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190810-67481-xgi39s.rb extconf.rb
+/Users/miuratomohiko/.rbenv/versions/2.6.3/bin/ruby -I /Users/miuratomohiko/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20190810-5600-zium2e.rb extconf.rb
 checking if the C compiler accepts  -I /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/libxml2... yes
 checking if the C compiler accepts -Wno-error=unused-command-line-argument-hard-error-in-future... no
 Building nokogiri using packaged libraries.
@@ -131,4 +131,4 @@ rm -rf /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/r
 
 current directory: /Users/miuratomohiko/Desktop/rails/environment/sample_app/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.3/ext/nokogiri
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20190810-67481-1i76q3h/nokogiri
+/usr/bin/install -c -m 0755 nokogiri.bundle ./.gem.20190810-5600-1jmus7k/nokogiri
