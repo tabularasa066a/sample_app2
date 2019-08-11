@@ -30,6 +30,7 @@ group :development do
   gem 'spring',                '2.1.0'
   gem 'spring-watcher-listen', '2.0.1'
   gem 'solargraph'
+  gem 'robocop'
 end
 
 group :test do
